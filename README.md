@@ -96,7 +96,7 @@ HNG12StageOne/
    ```sh
    dotnet run
    ```
-5. The API will be available at `https://localhost:7154/api/classify-number`.
+5. The API will be available at `https://hng12projectone-production.up.railway.app/api/classify-number`.
 
 ## License
 This project is open-source and available under the **Odogwu Licence**.
